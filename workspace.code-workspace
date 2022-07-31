@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "1000 lines code",
+			"path": "."
+		},
+		{
+			"name": "img",
+			"path": "..\\newwebsite\\Website_real\\Website\\img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "1000 lines code"
+	}
+}
